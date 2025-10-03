@@ -4,4 +4,4 @@ import lib_book as lb
 
 print("Good day & hello calix")
 lb.types("Electronics")
-# Coomment for fun
+# Comment for fun
